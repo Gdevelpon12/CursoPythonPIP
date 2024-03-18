@@ -1,4 +1,4 @@
-#guardar con el nombre correcto
+#guardando con el nombre correcto
 import random
 
 options = ('piedra', 'papel', 'tijera')
