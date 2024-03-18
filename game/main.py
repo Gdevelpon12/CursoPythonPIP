@@ -1,4 +1,5 @@
 #probando otra term con -am
+#cambio para comprobar commmit -am simultaneo
 import random
 
 options = ('piedra', 'papel', 'tijera')
