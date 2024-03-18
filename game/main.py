@@ -1,4 +1,4 @@
-#guardando con el nombre correcto
+#probando mi term
 import random
 
 options = ('piedra', 'papel', 'tijera')
